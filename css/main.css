@@ -154,7 +154,7 @@ template {
 body {
   position: relative;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 2;
   color: #555;
   background: #eee;
@@ -166,7 +166,7 @@ body {
 }
 @media (min-width: 1200px) {
   body {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 h1,
@@ -448,11 +448,11 @@ body {
 .header-inner {
   margin: 0 auto;
   padding: 100px 0 70px;
-  width: calc(100% - 20px);
+  width: 700px;
 }
 @media (min-width: 1200px) {
   .container .header-inner {
-    width: 1160px;
+    width: 1200px;
   }
 }
 @media (min-width: 1600px) {
@@ -462,11 +462,11 @@ body {
 }
 .main-inner {
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 700px;
 }
 @media (min-width: 1200px) {
   .container .main-inner {
-    width: 1160px;
+    width: 1200px;
   }
 }
 @media (min-width: 1600px) {
@@ -480,11 +480,11 @@ body {
 .footer-inner {
   box-sizing: border-box;
   margin: 0px auto;
-  width: calc(100% - 20px);
+  width: 700px;
 }
 @media (min-width: 1200px) {
   .container .footer-inner {
-    width: 1160px;
+    width: 1200px;
   }
 }
 @media (min-width: 1600px) {
@@ -1234,7 +1234,7 @@ pre .javascript .function {
 .post-body .figure .caption {
   margin: -20px auto 15px;
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
   font-weight: bold;
   line-height: 1;
@@ -1637,9 +1637,9 @@ pre .javascript .function {
   margin: 0;
   padding: 0 15px;
   border-radius: 5px;
-  height: 32px;
-  line-height: 32px;
-  font-size: 16px;
+  height: 36px;
+  line-height: 36px;
+  font-size: 18px;
   color: #fff;
   background: #f44336;
   letter-spacing: normal;
@@ -1991,7 +1991,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #46050b;
+  background: #ed0a77;
 }
 .feed-link,
 .chat {
@@ -2559,7 +2559,7 @@ ul.breadcrumb {
   margin: 1em 0;
   padding: 0 2em;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
 }
 ul.breadcrumb li {
   display: inline;
@@ -2585,11 +2585,11 @@ ul.breadcrumb li+li:last-child {
 .header {
   position: relative;
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 700px;
 }
 @media (min-width: 1200px) {
   .header {
-    width: 1160px;
+    width: 1200px;
   }
 }
 @media (min-width: 1600px) {
@@ -3184,10 +3184,17 @@ ul.breadcrumb li+li:last-child {
   }
 }
 body {
-  background: url("/images/bg.png");
+  background: url("/blog/images/bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  opacity: 0.8;
+  opacity: 0.9;
+}
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
