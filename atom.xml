@@ -3,11 +3,11 @@
   <title>My Blog</title>
   
   
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://Lx-ing.github.io/"/>
+  <link href="http://Simplex.com/"/>
   <updated>2019-06-06T06:21:31.023Z</updated>
-  <id>https://Lx-ing.github.io/</id>
+  <id>http://Simplex.com/</id>
   
   <author>
     <name>Simplex</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="https://Lx-ing.github.io/2019/06/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://Lx-ing.github.io/2019/06/06/我的第一篇文章/</id>
+    <link href="http://Simplex.com/2019/06/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://Simplex.com/2019/06/06/我的第一篇文章/</id>
     <published>2019-06-06T05:22:14.000Z</published>
     <updated>2019-06-06T06:21:31.023Z</updated>
     
@@ -29,19 +29,19 @@
     
     </summary>
     
-      <category term="前端" scheme="https://Lx-ing.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="http://Simplex.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="前端" scheme="https://Lx-ing.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="http://Simplex.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="JQuery" scheme="https://Lx-ing.github.io/tags/JQuery/"/>
+      <category term="JQuery" scheme="http://Simplex.com/tags/JQuery/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://Lx-ing.github.io/2019/06/06/hello-world/"/>
-    <id>https://Lx-ing.github.io/2019/06/06/hello-world/</id>
+    <link href="http://Simplex.com/2019/06/06/hello-world/"/>
+    <id>http://Simplex.com/2019/06/06/hello-world/</id>
     <published>2019-06-06T04:56:36.638Z</published>
     <updated>2019-06-06T04:56:36.638Z</updated>
     
@@ -61,8 +61,8 @@
   
   <entry>
     <title>EUI制作</title>
-    <link href="https://Lx-ing.github.io/2019/06/04/EUI%E5%88%B6%E4%BD%9C/"/>
-    <id>https://Lx-ing.github.io/2019/06/04/EUI制作/</id>
+    <link href="http://Simplex.com/2019/06/04/EUI%E5%88%B6%E4%BD%9C/"/>
+    <id>http://Simplex.com/2019/06/04/EUI制作/</id>
     <published>2019-06-04T10:15:38.000Z</published>
     <updated>2019-06-06T08:32:35.720Z</updated>
     
@@ -74,10 +74,10 @@
     
     </summary>
     
-      <category term="前端" scheme="https://Lx-ing.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="http://Simplex.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="Egret" scheme="https://Lx-ing.github.io/tags/Egret/"/>
+      <category term="Egret" scheme="http://Simplex.com/tags/Egret/"/>
     
   </entry>
   
